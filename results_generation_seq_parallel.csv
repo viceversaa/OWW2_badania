@@ -1,4 +1,4 @@
-Threads,GraphSize,Time(ms),BestPathLen
+Threads,GenerationSize,ExecutionTime,BestPathLen
 1,500,16330,2416746
 1,1000,32173,2342400
 1,2500,79929,2445830
